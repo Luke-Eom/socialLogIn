@@ -1,8 +1,5 @@
 package com.example.demo.controller;
 
-import com.cos.blog.model.KakaoProfile;
-import com.cos.blog.model.OAuthToken;
-import com.cos.blog.model.User;
 import com.example.demo.entity.KakaoProfile;
 import com.example.demo.entity.OAuthToken;
 import com.example.demo.entity.User;
