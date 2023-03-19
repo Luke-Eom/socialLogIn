@@ -33,8 +33,6 @@ d
 4demo/src/main/java/com/example/demo/enums/Roles.java,6\a\6a853aa56fb3fd2b96d1a73c8e3ac9ef4d081166
 o
 ?demo/src/main/java/com/example/demo/socialLogInApplication.java,1\2\1277cf53edf6bff33707a3ca42066c900e6f3296
-d
-4demo/src/main/java/com/example/demo/entity/User.java,c\4\c41609ae526c26dab28979dea65888d281fd576b
 r
 Bdemo/src/main/java/com/example/demo/repository/UserRepository.java,0\a\0abfda384f52589a4b682728ec42ff118ef60d2d
 l

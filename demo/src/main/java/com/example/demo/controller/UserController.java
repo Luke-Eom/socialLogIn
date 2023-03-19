@@ -67,7 +67,7 @@ public class UserController {
         MultiValueMap<String, String> params = new LinkedMultiValueMap<>();
         params.add("grant_type","authorization_code");
         params.add("client_id", "65fcfe922d0fa539a1bf32c45062e422");
-        params.add("redirect_ur", "http://localhost:8000/auth/kakao/callback");
+        params.add("redirect_ur", "http://localhost:8080/auth/kakao/callback");
         params.add("code", code);
 
         // header와 body를 entity로 매핑
