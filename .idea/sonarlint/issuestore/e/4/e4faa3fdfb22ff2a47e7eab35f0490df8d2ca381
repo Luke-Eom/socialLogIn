@@ -1,0 +1,15 @@
+
+a
+java:S2259‚"JA "NullPointerException" could be thrown; "kakaoProfile" is nullable here.( Ä°›
+c
+java:S2259d"HA "NullPointerException" could be thrown; "oauthToken" is nullable here.(Ý±¥íþÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(Úæûÿÿÿÿ
+_
+java:S2147\"DCombine this catch with the one at line 90, which has the same body.(¢­§Œÿÿÿÿÿ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(šØ­ù
+V	java:S125u"<This block of commented-out lines of code should be removed.(Úæûÿÿÿÿ
+`
+java:S2147}"ECombine this catch with the one at line 123, which has the same body.(¢­§Œÿÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(î¯–¢ùÿÿÿÿ
+T	java:S106Ž"9Replace this use of System.out or System.err by a logger.(à«ÛÀýÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(¬”É¶ýÿÿÿÿ

@@ -1,0 +1,9 @@
+
+w
+java:S1488."\Immediately return this expression instead of assigning it to the temporary variable "user".(®ô×Üúÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ƒ´æûÿÿÿÿ
+i
+java:S1602/"SRemove useless curly braces around statement and then remove useless return keyword(×Ôññ
+L
+java:S1612/"6Replace this lambda with method reference 'User::new'.(×Ôññ

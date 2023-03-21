@@ -1,0 +1,53 @@
+
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+s
+java:S1104	"XMake connected_at a static final constant or non-public and provide accessors if needed.(Äïóøÿÿÿÿ
+q
+java:S1104
+"VMake properties a static final constant or non-public and provide accessors if needed.(Ñê¸¤øÿÿÿÿ
+t
+java:S1104"YMake kakao_account a static final constant or non-public and provide accessors if needed.(…¬æêúÿÿÿÿ
+‡
+java:S1104"lMake profile_nickname_needs_agreement a static final constant or non-public and provide accessors if needed.(ı¹ï×ùÿÿÿÿ
+„
+java:S1104"iMake profile_image_needs_agreement a static final constant or non-public and provide accessors if needed.(ÁèÅªüÿÿÿÿ
+i
+java:S1104"SMake profile a static final constant or non-public and provide accessors if needed.(¢á›
+k
+java:S1104"UMake has_email a static final constant or non-public and provide accessors if needed.(èğÄ²
+|
+java:S1104"aMake email_needs_agreement a static final constant or non-public and provide accessors if needed.(ÎÑõ ûÿÿÿÿ
+p
+java:S1104"ZMake is_email_valid a static final constant or non-public and provide accessors if needed.(ıÁ¥€
+s
+java:S1104"]Make is_email_verified a static final constant or non-public and provide accessors if needed.(Õè§Œ
+l
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ
+i
+java:S1104"TMake nickname a static final constant or non-public and provide accessors if needed.(ÔÀª\
+z
+java:S1104"_Make thumbnail_image_url a static final constant or non-public and provide accessors if needed.(üÀêüÿÿÿÿ
+s
+java:S1104"]Make profile_image_url a static final constant or non-public and provide accessors if needed.(èøò‰
+r
+java:S1104"\Make is_default_image a static final constant or non-public and provide accessors if needed.(œÖÃØ
+i
+java:S1104'"TMake nickname a static final constant or non-public and provide accessors if needed.(ÔÀª\
+o
+java:S1104("YMake profile_image a static final constant or non-public and provide accessors if needed.(Èîÿ
+q
+java:S1104)"[Make thumbnail_image a static final constant or non-public and provide accessors if needed.(¬õçê
+q	java:S116	"WRename this field "connected_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äïóøÿÿÿÿ
+r	java:S116"XRename this field "kakao_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¬æêúÿÿÿÿ
+…	java:S116"kRename this field "profile_nickname_needs_agreement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¹ï×ùÿÿÿÿ
+‚	java:S116"hRename this field "profile_image_needs_agreement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁèÅªüÿÿÿÿ
+i	java:S116"TRename this field "has_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èğÄ²
+z	java:S116"`Rename this field "email_needs_agreement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÑõ ûÿÿÿÿ
+n	java:S116"YRename this field "is_email_valid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÁ¥€
+q	java:S116"\Rename this field "is_email_verified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õè§Œ
+x	java:S116"^Rename this field "thumbnail_image_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÀêüÿÿÿÿ
+q	java:S116"\Rename this field "profile_image_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èøò‰
+p	java:S116"[Rename this field "is_default_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÖÃØ
+m	java:S116("XRename this field "profile_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èîÿ
+o	java:S116)"ZRename this field "thumbnail_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬õçê
