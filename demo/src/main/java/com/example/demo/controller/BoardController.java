@@ -1,5 +1,6 @@
 package com.example.demo.controller;
 
+import com.example.demo.service.BoardService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
@@ -9,10 +10,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import com.cos.blog.service.BoardService;
 
-
-//http://localhost:8000/blog/
+//http://localhost:8080/blog/
 @Controller
 public class BoardController {
 
@@ -22,13 +21,13 @@ public class BoardController {
 
     @GetMapping({"","/"})
     public String index(Model model, @PageableDefault(size=3, sort="id",direction = Sort.Direction.DESC) Pageable pageable) {
-        model.addAttribute("boards",boardService.글목록(pageable));
+        model.addAttribute("boards",boardService.readAllWriting(pageable));
         return "index";
     }
 
     @GetMapping("/board/{id}")
     public String findById(@PathVariable int id, Model model) {
-        model.addAttribute("board", boardService.글상세보기(id));
+        model.addAttribute("board", boardService.readWriting(id));
         return "board/detail";
     }
 
@@ -39,7 +38,7 @@ public class BoardController {
 
     @GetMapping("/board/{id}/updateForm")
     public String updateForm(@PathVariable int id, Model model) {
-        model.addAttribute("board", boardService.글상세보기(id));
+        model.addAttribute("board", boardService.readWriting(id));
         return "/board/updateForm";
     }
 
