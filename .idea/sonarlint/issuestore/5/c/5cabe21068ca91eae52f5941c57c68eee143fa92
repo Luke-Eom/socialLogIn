@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ Ëç
+n
+java:S1602,"SRemove useless curly braces around statement and then remove useless return keyword(ƒ´æûÿÿÿÿ
+n
+java:S1602:"SRemove useless curly braces around statement and then remove useless return keyword(ƒ´æûÿÿÿÿ
+n
+java:S1602H"SRemove useless curly braces around statement and then remove useless return keyword(ƒ´æûÿÿÿÿ
+n
+java:S1602L"SRemove useless curly braces around statement and then remove useless return keyword(ƒ´æûÿÿÿÿ

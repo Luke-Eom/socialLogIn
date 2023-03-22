@@ -12,6 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.example.demo.socialLogIn" target="11" />
+      <module name="com.example.demo.socialLogIn.main" target="11" />
+      <module name="com.example.demo.socialLogIn.test" target="11" />
       <module name="example" target="11" />
       <module name="example.main" target="11" />
       <module name="example.test" target="11" />
